@@ -1,0 +1,1 @@
+assembled components of printer
