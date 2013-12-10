@@ -6,15 +6,20 @@ printer images can be found in [gallery](https://plus.google.com/photos/11446946
 
 ### Why you should care
 
-My idea is create fancy and advanced 3D printer. There are many printer
-improvements builded in printer design.
-
-Printer features are:
+My idea is create fancy, advanced and professional looking 3D printer. There are
+many features builded in printer design.
 
     Complete laser cuttable from 6 mm thick material (except extruder and pulleys)
     Build-in Raspberry Pi print server
     Three point headbed mount for better calibration
     X-axis balancing with metal ropes
-    Cable chains at all moving parts
+    Cable chains at all moving parts for cables protection
     No components placed out of printer (i.e. power supply)
     Supports wide range of extruders
+    Filanment guide for mounting dust remover
+
+### Note
+   
+This printer is in beta version and currently there is no real build. Some parts
+still may change during a time. I would be very happy for your feedback and any
+impovement sugestion.
