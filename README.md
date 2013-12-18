@@ -13,7 +13,7 @@ many features builded in printer design.
     Build-in Raspberry Pi print server
     Three point headbed mount for better calibration
     Couterbalanced X-axis
-    Cable chains at all moving parts for cables protection
+    Cable chains at all moving parts
     No components placed out of printer (i.e. power supply)
     Supports wide range of extruders
     Filanment guide for mounting dust remover
