@@ -12,7 +12,7 @@ many features builded in printer design.
     Complete laser cuttable from 6 mm thick material (except extruder and pulleys)
     Build-in Raspberry Pi print server
     Three point headbed mount for better calibration
-    X-axis balancing with metal ropes
+    Couterbalanced X-axis
     Cable chains at all moving parts for cables protection
     No components placed out of printer (i.e. power supply)
     Supports wide range of extruders
