@@ -17,6 +17,9 @@ many features builded in printer design.
     No components placed out of printer (i.e. power supply)
     Supports wide range of extruders
     Filanment guide for mounting dust remover
+    200 x 200 x 200 mm print volume (may be greater, depends on configuration)
+    designed for RAMPS 1.4 electronics
+    electronics active cooling
 
 ### Note
    

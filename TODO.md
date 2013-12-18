@@ -6,3 +6,4 @@ get their 3D computer model)
 
     Monochromatic display at the front of printer - dimensions needed
     7 inch LCD screen for Raspberry Pi - dimensions needed
+    mouting parts for webcam(s)
