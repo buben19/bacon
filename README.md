@@ -18,8 +18,8 @@ many features builded in printer design.
     Supports wide range of extruders
     Filanment guide for mounting dust remover
     200 x 200 x 200 mm print volume (may be greater, depends on configuration)
-    designed for RAMPS 1.4 electronics
-    active electronics cooling
+    Designed for RAMPS 1.4 electronics
+    Active electronics cooling
 
 ### Note
    
