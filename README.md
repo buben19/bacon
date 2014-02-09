@@ -2,7 +2,7 @@
 
 Bacon is a laser cuttable 3D printer, originaly inspired by [sgraber](https://github.com/sgraber) printer.
 
-Some images can be found in [gallery](https://plus.google.com/photos/114469468674423850579/albums/5955138559629498817)
+Some images can be found in [gallery](https://plus.google.com/photos/114469468674423850579/albums/5978376017777328817)
 
 ### Features
 
